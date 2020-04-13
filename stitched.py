@@ -95,3 +95,6 @@ if status == 0:
 	cv2.imshow("Stitched", stitched)
 	cv2.waitKey(0)
 
+# USAGE
+# python image_stitching.py --images images/scottsdale --output output.png --crop 1
+
