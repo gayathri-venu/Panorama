@@ -1,5 +1,5 @@
 # USAGE
-# python image_stitching.py --images images/scottsdale --output output.png 
+# python image_stitching.py --input input --output output/output.png 
 
 # import the necessary packages
 from imutils import paths
@@ -10,7 +10,7 @@ import cv2
 
 # construct the argument parser and parse the arguments
 ap = argparse.ArgumentParser()
-ap.add_argument("-i", "--images", type=str, required=True,
+ap.add_argument("-i", "--input", type=str, required=True,
 	help="path to input directory of images to stitch")
 ap.add_argument("-o", "--output", type=str, required=True,
 	help="path to the output image")
