@@ -1,5 +1,5 @@
 # USAGE
-# python image_stitching.py --input input --output output/output.png 
+# python stitched.py --input input --output output/output.png 
 
 # import the necessary packages
 from imutils import paths
