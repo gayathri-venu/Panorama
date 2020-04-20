@@ -4,6 +4,20 @@
 
 
 
+### From this... 
+ 
+ ![Input 1](https://github.com/gayathri-venu/Panorama/blob/master/input/IMG_1786-2.jpg)
+ ![Input 2](https://github.com/gayathri-venu/Panorama/blob/master/input/IMG_1787-2.jpg)
+ ![Input 3](https://github.com/gayathri-venu/Panorama/blob/master/input/IMG_1786-2.jpg)
+  
+ 
+ 
+ ### To this...
+ 
+ ![Output](https://github.com/gayathri-venu/Panorama/blob/master/output/output.png)
+ 
+
+
 ### How did we do it??
 
 1. Load the images. 
@@ -22,20 +36,6 @@
 
  
  
- ### From this... 
  
- ![Input 1](https://github.com/gayathri-venu/Panorama/blob/master/input/IMG_1786-2.jpg)
- ![Input 2](https://github.com/gayathri-venu/Panorama/blob/master/input/IMG_1787-2.jpg)
- ![Input 3](https://github.com/gayathri-venu/Panorama/blob/master/input/IMG_1786-2.jpg)
-  
- 
- 
- ### To this...
- 
- ![Output](https://github.com/gayathri-venu/Panorama/blob/master/output/output.png)
- 
- 
- 
-
  
  
