@@ -8,7 +8,7 @@
  
  ![Input 1](https://github.com/gayathri-venu/Panorama/blob/master/input/IMG_1786-2.jpg)
  ![Input 2](https://github.com/gayathri-venu/Panorama/blob/master/input/IMG_1787-2.jpg)
- ![Input 3](https://github.com/gayathri-venu/Panorama/blob/master/input/IMG_1786-2.jpg)
+ ![Input 3](https://github.com/gayathri-venu/Panorama/blob/master/input/IMG_1788-2.jpg)
   
  
  
