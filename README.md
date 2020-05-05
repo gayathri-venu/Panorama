@@ -34,6 +34,10 @@
 
 7. Write the output stitched image to the disk and display it. 
 
+###References
+
+https://www.pyimagesearch.com/2018/12/17/image-stitching-with-opencv-and-python/
+
  
  
  
